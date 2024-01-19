@@ -20,7 +20,7 @@
 
 #### 2. Procedural Animation
 <img src = "Images/procedural.gif">  
-Inverse Kinematics를 이용하여, 좀비가 벽을 오를 때 물리적으로 타당하고 자연스럽게 할 수 있도록 함   
+Inverse Kinematics를 이용하여, 좀비가 벽을 오를 때 물리적으로 타당하고 자연스럽게 할 수 있도록 함  
 Unreal Engine의 Control Rig 이용  
 
 #### 3. Sound Synthesis
